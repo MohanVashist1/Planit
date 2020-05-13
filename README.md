@@ -1,3 +1,9 @@
+# About the application
+This application has the ability to generate an Iterary for you based on your prefrences. In addition, it can plan out which times you should visit the locations, sync with your phone's calendar and give you interesting attractions based on a set location, feedback/review system as well as navigation to locations.
+
+### Screenshots
+(Key features only) https://imgur.com/a/s0llDHL
+
 ## Setting up the backend
 #### Note that the commands are for Linux, I cannot guarantee that these commands work in MacOS/Windows
 
